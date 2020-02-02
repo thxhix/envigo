@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'DecimaMonoPro';
+    src: url('DecimaMonoPro.woff2') format('woff2'),
+        url('DecimaMonoPro.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
